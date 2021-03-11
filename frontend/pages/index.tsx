@@ -142,7 +142,6 @@ const IndexPage = () => {
 		};
 		window.setWorld = setWorld;
 
-		window.refreshData();
 
 	}, [setTurtles, setWorld]);
 
